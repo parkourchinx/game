@@ -1,8 +1,0 @@
- git pull origin master #pulls it
- #look at changes
- #make changes
- #u can do
- notepad hello.txt #to open that file with notepad
- git add . #adds everything to the file
- git commit -m "[message]" #tell matthew what u have changed in here
- git push -u origin master #pushes it back so mat can see it
